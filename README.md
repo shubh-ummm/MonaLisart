@@ -1,2 +1,2 @@
-# MonaLisart
-eCommerce platform using MERN, AWS
+# MonaLisArt
+eCommerce platform for Paintings using MERN Stack
